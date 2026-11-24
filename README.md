@@ -1,4 +1,4 @@
-# 🥦 Smart Vegetable Detection & Checkout (Faster R-CNN)
+#  Smart Vegetable Detection & Checkout (Faster R-CNN)
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C.svg)](https://pytorch.org/)
 [![Gradio](https://img.shields.io/badge/UI-Gradio-orange.svg)](https://www.gradio.app/)
@@ -8,14 +8,14 @@ An AI-powered smart supermarket checkout system that detects produce using **Fas
 
 ---
 
-## ⚡ Highlights
+##  Highlights
 - **Model:** Faster R-CNN with ResNet-50-FPN backbone fine-tuned on custom COCO dataset (35+ vegetable & fruit classes).
 - **Smart Checkout System:** Detects items, draws bounding boxes, and generates an itemized receipt with pricing in RM.
 - **Interactive Web UI:** Live image upload and webcam testing powered by Gradio.
 
 ---
 
-## 📊 Model Comparison
+##  Model Comparison
 
 | Model | Accuracy | Precision | Recall |
 | :--- | :---: | :---: | :---: |
@@ -25,7 +25,7 @@ An AI-powered smart supermarket checkout system that detects produce using **Fas
 
 ---
 
-## 🛠️ Quickstart
+##  Quickstart
 
 ### 1. Install Dependencies
 ```bash
@@ -41,7 +41,7 @@ Open `RCNNASSIGNMENT.ipynb` in **Google Colab (GPU)** or Jupyter and run all cel
 
 ---
 
-## 🧾 Sample Checkout Output
+##  Sample Checkout Output
 
 ```text
 ========================================
@@ -57,5 +57,5 @@ Open `RCNNASSIGNMENT.ipynb` in **Google Colab (GPU)** or Jupyter and run all cel
 
 ---
 
-## 👤 Author
+##  Author
 * **Justin Yong Wei Li** ([@justinyw105](https://github.com/justinyw105))
